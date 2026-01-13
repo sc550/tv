@@ -6,7 +6,7 @@
             "type": 0,
             "url": "./lives/jxdx.txt",
 		  // "epg": "https://tv.mxdyeah.top/epgphp/index.php/?ch={name}&date={date}"
-  		   "epg": "https://tv.mxdyeah.top/epgphp/index.php"                   
+  		   "epg": "https://tv.mxdyeah.top/epgphp/t.xml.gz"                   
         }
 	],
 	"sites": [

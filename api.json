@@ -1,9 +1,10 @@
 {
+	"spider": "./jars/xbpq.jar",
 	"lives": [
         {
             "name": "冰茶TV",
             "type": 0,
-            "url": "https://bc.188766.xyz/?url=https://live.188766.xyz&mima=bingcha1130",
+            "url": "https://bc.188766.xyz/?url=https://live.188766.xyz",
             "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
         },
         {
@@ -42,7 +43,6 @@
             "key": "蚂蚁影视",
             "name": "🐜蚂蚁｜影视",
             "type": 3,
-	        "jar":"./jars/xbpq.jar",
             "api": "csp_XBPQ",
             "ext": "./libs/蚂蚁影视.json"
         },        
@@ -50,7 +50,6 @@
             "key": "永乐影视",
             "name": "😀永乐｜影视",
             "type": 3,
-	        "jar":"./jars/xbpq.jar",
             "api": "csp_XBPQ",
             "ext": "./libs/永乐影视.json"
         },

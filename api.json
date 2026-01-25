@@ -29,24 +29,6 @@
             "ext": "./libs/个人影视.json"
         },    
         {
-            "key": "蝴蝶",
-            "name": "🦋蝴蝶┃App",
-            "type": 3,
-	        "jar":"./jars/qiaoji.jar",
-            "api": "csp_Qiji",
-            "playerType": 2,
-            "ext": "7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9677gg"
-        },
-		{
-            "key": "柠檬",
-            "name": "🍋柠檬┃App",
-            "type": 3,
-            "jar":"./jars/qiaoji.jar",
-            "api": "csp_Nmvod",
-            "playerType": 2,
-            "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-        },
-        {
             "key": "蚂蚁影视",
             "name": "🐜蚂蚁｜影视",
             "type": 3,

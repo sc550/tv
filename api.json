@@ -29,8 +29,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
 	    "quickSearch": 1,
-	    "filterable": 1,
-	    "danmu": "false"
+	    "filterable": 1
         },
 		{
             "key": "永乐影视",

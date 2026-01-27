@@ -24,7 +24,7 @@
         {
             "key": "奇奇",
             "name": "💯奇奇｜APP",
-            "jar":"./jars/xs.jar",
+            "jar":"./jars/qiaoji.jar",
             "type": 3,
             "api": "csp_AppQi",
             "changeable": "1",

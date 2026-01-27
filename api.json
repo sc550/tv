@@ -24,7 +24,7 @@
         {
             "key": "奇奇",
             "name": "💯奇奇｜APP",
-            "jar":"./jars/Yoursmile.jar",
+            "jar":"./jars/xs.jar",
             "type": 3,
             "api": "csp_AppQi",
             "changeable": "1",

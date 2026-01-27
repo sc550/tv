@@ -22,24 +22,6 @@
 	],
 	"sites": [
         {
-            "key": "奇奇",
-            "name": "💯奇奇｜APP",
-            "jar":"./jars/qiaoji.jar",
-            "type": 3,
-            "api": "csp_AppQi",
-            "changeable": "1",
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "url": "http://110.42.67.221:8006",
-                "dataKey": "123456789abcdefg",
-                "dataIv": "123456789abcdefg",
-                "search": "searchList7",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
-        },
-        {
             "key": "蚂蚁影视",
             "name": "🐜蚂蚁｜影视",
             "type": 3,

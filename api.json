@@ -1,5 +1,4 @@
 {
-	"spider": "./jars/xbpq.jar",
 	"lives": [
         {
             "name": "江西电信",
@@ -21,10 +20,11 @@
         }
 	],
 	"sites": [
-		{
+        {
             "key": "蚂蚁影视",
             "name": "🐜蚂蚁｜影视",
             "type": 3,
+            "jar":"./jars/xbpq.jar",
             "api": "csp_XBPQ",
             "ext": "./libs/蚂蚁影视.json"
         },
@@ -75,6 +75,7 @@
             "key": "永乐影视",
             "name": "😀永乐｜影视",
             "type": 3,
+            "jar":"./jars/xbpq.jar",
             "api": "csp_XBPQ",
             "ext": "./libs/永乐影视.json"
         },
@@ -82,6 +83,7 @@
             "key": "个人影视",
             "name": "🐯个人｜影视",
             "type": 3,
+            "jar":"./jars/xbpq.jar",
             "api": "csp_XBPQ",
             "ext": "./libs/个人影视.json"
         }       

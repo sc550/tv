@@ -1,0 +1,43 @@
+	//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//本接口无公众号、无盈利、无引流、仅为自己使用，他人请直接使用大佬接口，谢谢。
+//适配安卓4低端使用，加载慢
+{
+	"lives": [
+        {
+            "name": "冰茶TV",
+            "type": 0,
+            "url": "https://bc.188766.xyz/?url=https://live.ottiptv.cc",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+        },        {
+            "name": "江西电信",
+            "type": 0,
+            "url": "./lives/jxdx.txt",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+        },
+        {
+            "name": "江西移动",
+            "type": 0,
+            "url": "./lives/jxyd.txt",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+        }
+	],
+	"sites": [
+
+        {
+            "key": "蚂蚁影视",
+            "name": "🐜蚂蚁｜影视",
+            "type": 3,
+            "jar":"./jars/xbpq.jar",
+            "api": "csp_XBPQ",
+            "ext": "./libs/蚂蚁影视.json"
+        },
+        {
+            "key": "永乐影视",
+            "name": "😀永乐｜影视",
+            "type": 3,
+            "jar":"./jars/xbpq.jar",
+            "api": "csp_XBPQ",
+            "ext": "./libs/永乐影视.json"
+        }
+    ]
+}

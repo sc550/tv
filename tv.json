@@ -1,1 +1,32 @@
-111
+	//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//本接口无公众号、无盈利、无引流、仅为自己使用，他人请直接使用大佬接口，谢谢。
+
+{
+	"lives": [
+        {
+            "name": "江西电信",
+            "type": 0,
+            "url": "./lives/jxdx.txt",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+        },
+        {
+            "name": "江西移动",
+            "type": 0,
+            "url": "./lives/jxyd.txt",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+        }
+	],
+	"sites": [
+        {
+            "key": "csp_XYQHiker_农民影视",
+            "name": "🧑🏻农民影视",
+            "type": 3,
+            "jar":"./jars/xyq.jar",
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./libs/农民影视.json"
+        }
+    ]
+}

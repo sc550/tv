@@ -25,7 +25,7 @@
       "filterable": 1,
       "ext": {
         "sp": "Nmys",
-        "danmu": false
+        "danmu": true
         },
         "timeout": 10
        },

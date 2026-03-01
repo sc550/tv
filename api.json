@@ -85,6 +85,17 @@
                 "ua": "okhttp/3.10.0"
             }
         },
+        {
+            "key": "星芽短剧",
+            "name": "星芽｜短剧",
+            "type": 3,
+            "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "类型": "短剧"
+        },
 		{
       "key": "糯米",
       "name": "☀糯米🔹蓝光",

@@ -4,23 +4,16 @@
 //easybox:当前lives江西电信在内无法使用，待修复；移动可用；
 //OK影视：均可正常使用
 {
-	"lives": [
-        {
-            "name": "sdx直播(通用网络)",
-            "type": 0,
-            "url": "https://file.commonspace.one/live/live.php",
-            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
-        },
-		{
-            "name": "江西电信（电信网络专用）",
-            "type": 0,
-            "url": "./lives/jxdx.txt",
-            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
-        },
         {
             "name": "江西移动（移动网络专用）",
             "type": 0,
             "url": "./lives/jxyd.txt",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+        },
+	    {
+            "name": "江西电信（电信网络专用）",
+            "type": 0,
+            "url": "./lives/jxdx.txt",
             "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
         },
         {

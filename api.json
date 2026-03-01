@@ -6,19 +6,25 @@
 {
 	"lives": [
         {
-            "name": "江西电信",
+            "name": "sdx直播(通用网络)",
+            "type": 0,
+            "url": "https://file.commonspace.one/live/live.php",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+        },
+		{
+            "name": "江西电信（电信网络专用）",
             "type": 0,
             "url": "./lives/jxdx.txt",
             "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
         },
         {
-            "name": "江西移动",
+            "name": "江西移动（移动网络专用）",
             "type": 0,
             "url": "./lives/jxyd.txt",
             "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
         },
         {
-            "name": "PHP内部",
+            "name": "PHP内部（自家内网可用，别人无法使用）",
             "type": 0,
             "url": "./lives/phptv.txt",
             "epg": "https://tv.mxdyeah.top/epgphp/index.php"              

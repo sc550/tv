@@ -4,7 +4,8 @@
 //easybox:当前lives江西电信在内无法使用，待修复；移动可用；
 //OK影视：均可正常使用
 {
-        {
+"lives": [
+	   {
             "name": "江西移动（移动网络专用）",
             "type": 0,
             "url": "./lives/jxyd.txt",

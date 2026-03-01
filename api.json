@@ -69,6 +69,22 @@
                 "ua": "okhttp/3.10.0"
             }
         },
+        {
+            "key": "橘子",
+            "name": "橘子｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt",
+                "dataKey": "jasaFBcdV3zrUDf2",
+                "dataIv": "jasaFBcdV3zrUDf2",
+                "version": "305",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            }
+        },
 		{
       "key": "糯米",
       "name": "☀糯米🔹蓝光",

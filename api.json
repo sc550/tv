@@ -16,6 +16,12 @@
             "type": 0,
             "url": "./lives/jxyd.txt",
             "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+        },
+        {
+            "name": "PHP内部",
+            "type": 0,
+            "url": "./lives/phptv.txt",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
         }
 	],
 	"sites": [

@@ -1,0 +1,137 @@
+	//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//本接口无公众号、无盈利、无引流、仅为自己使用，他人请直接使用大佬接口，谢谢。
+//手机可使用接口，基本为安卓9以上；
+//easybox:当前lives江西电信在内无法使用，待修复；移动可用；
+//OK影视：均可正常使用
+{
+  "spider": "./jars/xs.jar",
+  "lives": [
+	    {
+            "name": "江西电信（电信网络专用）",
+            "type": 0,
+            "url": "./lives/jxdx.txt",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php",
+			"ua":  "okhttp/3.10.0"
+        },
+        {
+            "name": "PHP内部（自家内网可用，别人无法使用）",
+            "type": 0,
+            "url": "./lives/phptv.txt",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+        }
+	],
+	"sites": [
+        {
+            "key": "热播影视",
+            "name": "热播｜APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
+        {
+            "key": "老鹰",
+            "name": "老鹰｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
+                "dataKey": "zxPtEUDGVllIUhDB",
+                "dataIv": "zxPtEUDGVllIUhDB",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "金牌",
+            "name": "金牌｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://dtqj.ggtvb.cc/dtjp.txt",
+                "dataKey": "eecbio48dsq131ee",
+                "dataIv": "eecbio48dsq131ee",
+                "search": "searchList4",
+                "version": "305",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "橘子",
+            "name": "橘子｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt",
+                "dataKey": "jasaFBcdV3zrUDf2",
+                "dataIv": "jasaFBcdV3zrUDf2",
+                "version": "305",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "星芽短剧",
+            "name": "星芽｜短剧",
+            "type": 3,
+            "api": "./py/星芽短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "类型": "短剧"
+        },
+		{
+      "key": "糯米",
+      "name": "☀糯米🔹蓝光",
+      "type": 3,
+      "jar":"./jars/tw.jar",
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Nmys",
+        "danmu": false
+        },
+        "timeout": 10
+       },
+		{
+      "key": "麻雀",
+      "name": "☀麻雀🔹蓝光",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "api": "./py/麻雀蓝光.py",
+      "ext": "http://118.89.203.120:8365/"
+    },
+        
+        {
+            "key": "蚂蚁影视",
+            "name": "🐜蚂蚁｜影视",
+            "type": 3,
+            "jar":"./jars/xbpq.jar",
+            "api": "csp_XBPQ",
+            "ext": "./libs/蚂蚁影视.json"
+        },
+        {
+            "key": "永乐影视",
+            "name": "😀永乐｜影视",
+            "type": 3,
+            "jar":"./jars/xbpq.jar",
+            "api": "csp_XBPQ",
+            "ext": "./libs/永乐影视.json"
+        }
+    ]
+}

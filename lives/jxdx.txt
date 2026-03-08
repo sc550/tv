@@ -103,8 +103,6 @@ CHC影迷电影,rtsp://115.153.220.216:554/PLTV/88888888/224/3221226990/86128784
 优优宝贝,rtsp://115.153.220.216:554/PLTV/88888888/224/3221227050/86502131.smil
 新动漫,rtsp://115.153.220.216:554/PLTV/88888888/224/3221226973/86129004.smil
 
-
-爱上4K,rtsp://115.153.220.216:554/PLTV/88888888/224/3221227025/86502164.smil
 💦特色频道,#genre#
 中国天气,rtsp://115.153.220.216:554/PLTV/88888888/224/3221227056/89471929.smil
 财富天下,rtsp://115.153.220.216:554/PLTV/88888888/224/3221227068/95616594.smil
@@ -135,6 +133,7 @@ CHC影迷电影,rtsp://115.153.220.216:554/PLTV/88888888/224/3221226990/86128784
 音乐现场,rtsp://115.153.220.216:554/PLTV/88888888/224/3221227001/86441055.smil
 游戏风云,rtsp://115.153.220.216:554/PLTV/88888888/224/3221225615/iptv7998.smil
 足球,rtsp://115.153.220.216:554/PLTV/88888888/224/3221227019/86502107.smil
+爱上4K,rtsp://115.153.220.216:554/PLTV/88888888/224/3221227025/86502164.smil
 
 💦华数频道,#genre#
 华数,rtsp://115.153.220.216:554/PLTV/88888888/224/3221226981/86440822.smil
@@ -169,10 +168,24 @@ IPTV相声小品,rtsp://115.153.220.216:554/PLTV/88888888/224/3221226989/8644109
 IPTV野外,rtsp://115.153.220.216:554/PLTV/88888888/224/3221226991/86441042.smil
 IPTV综艺,rtsp://115.153.220.216:554/PLTV/88888888/224/3221226983/86440966.smil
 
+💦河北频道,#genre#
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1893427200&k=590149d139a9820d4a4e5c89383199b1$直播
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.flv?t=1893427200&k=f736eea4cdc99f067c97c69a7396be1b$直播
+河北经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1893427200&k=ad907331c90d847d7e7ae51764d8a09a$直播
+河北经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.flv?t=1893427200&k=08553b9afbefe2ed6051bae727b823e1$直播
+河北三农,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1893427200&k=f07ae1d5be12d118d136be90e032bfce$直播
+河北三农,http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=1893427200&k=b1279c7829bc691886e411a3a1ad3878$直播
+河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1893427200&k=49867ab5d80a7564abaf8ee18868992f$直播
+河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.flv?t=1893427200&k=5bdd87a50dca9d85e09f09db5ad54a8f$直播
+河北影视剧,http://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=1893427200&k=2bbbb53c494c02c044ed8805c541df4e$直播
+河北影视剧,http://tv.pull.hebtv.com/jishi/yingshijupindao.flv?t=1893427200&k=f1e1b5a402bb7e693fa616561e8e1a6a$直播
+河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1893427200&k=d4a455b288ebbc0f53903f4750372b0f$直播
+河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=1893427200&k=6aec9182a1fcab091bc95e70260a48c1$直播
+河北文旅公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1893427200&k=0b0e2c7cf0820ad8b22ae063511c4104$直播
+河北文旅公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.flv?t=1893427200&k=aba466631fe65a3eb88883321a2e8b53$直播
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8$直播
 
 💦江西频道,#genre#
-江西IPTV1,rtsp://115.153.220.216:554/PLTV/88888888/224/3221226956/72788191.smil
-江西IPTV2,rtsp://115.153.220.216:554/PLTV/88888888/224/3221226958/72788248.smil
 江西卫视,rtsp://115.153.220.216:554/PLTV/88888888/224/3221226656/46275837.smil
 江西都市,rtsp://115.153.220.216:554/PLTV/88888888/224/3221227069/94448631.smil
 江西经济生活,rtsp://115.153.220.216:554/PLTV/88888888/224/3221226946/70055407.smil
@@ -182,7 +195,8 @@ IPTV综艺,rtsp://115.153.220.216:554/PLTV/88888888/224/3221226983/86440966.smil
 江西新闻,rtsp://115.153.220.216:554/PLTV/88888888/224/3221226650/53190437.smil
 江西移动,rtsp://115.153.220.216:554/PLTV/88888888/224/3221227283/125365797.smil
 江西陶瓷频道,rtsp://115.153.220.216:554/PLTV/88888888/224/3221227072/105246432.smil
-
+吉安综合, https://play.jarmt.cn/live/c3756d7171c348539cb9598232390460.m3u8
+吉安公共, https://play.jarmt.cn/live/b7431049d491429db72abcad0422f98c.m3u8
 
 风尚购物,rtsp://115.153.220.216:554/PLTV/88888888/224/3221227049/90141188.smil
 南昌都市,rtsp://115.153.220.216:554/PLTV/88888888/224/3221227075/113409249.smil

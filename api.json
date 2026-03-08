@@ -16,7 +16,8 @@
             "name": "江西电信（电信网络专用）",
             "type": 0,
             "url": "./lives/jxdx.txt",
-            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php"
+			"ua":  "okhttp/3.10.0"
         },
         {
             "name": "PHP内部（自家内网可用，别人无法使用）",

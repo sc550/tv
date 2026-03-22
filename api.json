@@ -32,7 +32,8 @@
 			"name": "三秋｜APP",
 			"type": 3,
 			"api": "csp_App3Q",
-			"danmu": false
+			"danmu": false,
+            "playerType": "exo"
 		},
 		{
             "key": "热播影视",

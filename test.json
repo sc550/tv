@@ -76,26 +76,6 @@
             "url": "Sequence"
         },
         {
-            "name": "自定：请先设置",
-            "type": 1,
-            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getuserjx&url="
-        },
-        {
-            "name": "布偶解析",
-            "type": 1,
-            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi1&url="
-        },
-        {
-            "name": "晴天4K",
-            "type": 1,
-            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
-        },
-        {
-            "name": "虎斑AB",
-            "type": 1,
-            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getAbjx&url="
-        },
-        {
             "name": "虎斑XM",
             "type": 1,
             "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getXmflvjx&url=",
@@ -105,6 +85,11 @@
                     "Origin": "https://jx.xmflv.com"
                 }
             }
+        },
+        {
+            "name": "虎斑AB",
+            "type": 1,
+            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getAbjx&url="
         }
     ],
     "flags": [

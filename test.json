@@ -60,7 +60,7 @@
         {
             "key": "设置",
             "name": "弹幕|设置",
-            "type": 3，
+            "type": 3,
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,

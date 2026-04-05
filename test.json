@@ -93,6 +93,12 @@
             "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi1&url="
         },
         {
+            "name": "极速解析",
+            "type": 0,
+            "url": "https://jx.2s0.cn/player/?url="
+        },
+
+        {
             "name": "晴天4K",
             "type": 1,
             "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="

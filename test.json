@@ -60,8 +60,8 @@
     {
       "key": "设置",
       "name": "弹幕|设置",
-      "type": 3,
-      "api": "csp_Config",
+      "type": 3，
+      "api": "csp_Config"，
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
@@ -118,9 +118,9 @@
   "flags": [
     "youku",
     "qq",
-    "QQ"，
+    "QQ",
     "iqiyi",
-    "qiyi"，
+    "qiyi",
     "letv",
     "sohu",
     "pptv",
@@ -136,14 +136,14 @@
     {
       "name": "暴风",
       "hosts": [
-        "bfzy"，
+        "bfzy",
         "bfbfvip",
         "bfengbf"
       ],
       "regex": [
         "#EXTINF.*?\\s+.*?adjump.*?\\.ts"
       ]
-    }，
+    },
     {
       "name": "量子",
       "hosts": [
@@ -161,7 +161,7 @@
       "name": "非凡",
       "hosts": [
         "vip.ffzy",
-        "hd.ffzy"，
+        "hd.ffzy",
         "super.ffzy"
       ],
       "regex": [
@@ -240,7 +240,7 @@
   "doh": [
     {
       "name": "Google",
-      "url": "https://dns.google/dns-query"，
+      "url": "https://dns.google/dns-query",
       "ips": [
         "8.8.4.4",
         "8.8.8.8"
@@ -271,7 +271,7 @@
         "84.200.69.80",
         "84.200.70.40"
       ]
-    }，
+    },
     {
       "name": "Quad9",
       "url": "https://dns.quad9.net/dns-quer",

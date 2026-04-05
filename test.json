@@ -83,7 +83,7 @@
             "url": "Web"
         },
         {
-            "name": "Json轮询",
+            "name": "Json轮询"，
             "type": 2,
             "url": "Sequence"
         },
@@ -137,11 +137,11 @@
         "qiyi",
         "letv",
         "sohu",
-        "pptv",
+        "pptv"，
         "PPTV",
         "mgtv",
         "wasu",
-        "bilibili"，
+        "bilibili",
         "m1905",
         "seven",
         "m78"

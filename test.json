@@ -56,6 +56,19 @@
       "type": 3,
       "api": "./jars/drpy2.min.js",
       "ext": "./libs/茫茫.js"
+    },
+    {
+      "key": "设置",
+      "name": "弹幕|设置",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
+      }
     }
 ],
 
@@ -84,7 +97,7 @@
       "name": "晴天4K",
       "type": 1,
       "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
-    },
+    }，
     {
       "name": "虎斑AB",
       "type": 1,

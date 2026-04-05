@@ -136,7 +136,7 @@
     {
       "name": "暴风",
       "hosts": [
-        "bfzy",
+        "bfzy"，
         "bfbfvip",
         "bfengbf"
       ],
@@ -208,31 +208,7 @@
         "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
       ]
     },
-    {
-      "name": "磁力广告",
-      "hosts": [
-        "magnet"
-      ],
-      "regex": [
-        "更多",
-        "请访问",
-        "example",
-        "社 區",
-        "x u u",
-        "直 播",
-        "更 新",
-        "社 区",
-        "有趣",
-        "有 趣",
-        "英皇体育",
-        "全中文AV在线",
-        "澳门皇冠赌场",
-        "哥哥快来",
-        "荷官",
-        "新片首发",
-        "UUE29"
-      ]
-    },
+
     {
       "name": "火山嗅探",
       "hosts": [
@@ -264,7 +240,7 @@
   "doh": [
     {
       "name": "Google",
-      "url": "https://dns.google/dns-query",
+      "url": "https://dns.google/dns-query"，
       "ips": [
         "8.8.4.4",
         "8.8.8.8"

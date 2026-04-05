@@ -95,9 +95,14 @@
         {
             "name": "极速解析",
             "type": 1,
-            "url": "https://jx.2s0.cn/player/?url="
-        },
-
+            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getjx&url=",
+            "ext": {
+                "header": {
+                    "Accept": "*/？*",
+                    "Origin": "https://jx.2s0.cn/player"
+                }
+            }
+        }
         {
             "name": "晴天4K",
             "type": 1,

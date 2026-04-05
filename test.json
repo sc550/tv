@@ -60,7 +60,7 @@
         {
             "key": "设置",
             "name": "弹幕|设置",
-            "type": 3,
+            "type": 3，
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
@@ -83,8 +83,8 @@
             "url": "Sequence"
         },
         {
-            "name": "自定：请先设置",
-            "type": 1,
+            "name": "自定：请先设置"，
+            "type": 1，
             "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getuserjx&url="
         },
         {
@@ -92,17 +92,6 @@
             "type": 1,
             "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi1&url="
         },
-        {
-            "name": "极速解析",
-            "type": 1,
-            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getjx&url=",
-            "ext": {
-                "header": {
-                    "Accept": "*/？*",
-                    "Origin": "https://jx.2s0.cn/player"
-                }
-            }
-        }
         {
             "name": "晴天4K",
             "type": 1,
@@ -137,7 +126,7 @@
         "PPTV",
         "mgtv",
         "wasu",
-        "bilibili",
+        "bilibili"，
         "m1905",
         "seven",
         "m78"

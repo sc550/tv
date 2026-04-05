@@ -31,31 +31,31 @@
 	"sites": [
     {
       "key": "tenteng",
-      "name": "落日|自定",
+      "name": "腾腾|官源",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾腾.js"
+      "api": "./jars/drpy2.min.js",
+      "ext": "./libs/腾腾.js"
     },
     {
       "key": "youyou",
-      "name": "日出|自定",
+      "name": "优优|官源",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优优.js"
+      "api": "./jars/drpy2.min.js",
+      "ext": "./libs/优优.js"
     },
     {
       "key": "qiqi",
-      "name": "晚霞|自定",
+      "name": "奇艺|官源",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇奇.js"
+      "api": "./jars/drpy2.min.js",
+      "ext": "./libs/奇奇.js"
     },
     {
       "key": "mangmang",
-      "name": "朝阳|自定",
+      "name": "茫茫|官源",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/茫茫.js"
+      "api": "./jars/drpy2.min.js",
+      "ext": "./libs/茫茫.js"
     }
 ],
 

@@ -26,6 +26,7 @@
             "ext": {
                 "filter": "./libs/360.json",
                 "fishjx": [
+                    "https://jx.xmflv.com/?url=",
                     "https://jx.hls.one/?url="
                 ]
             }

@@ -2,12 +2,6 @@
     "spider": "./jars/hb.jar",
     "lives": [
         {
-            "name": "江西移动（移动网络专用）",
-            "type": 0,
-            "url": "./lives/jxyd.txt",
-            "epg": "https://tv.mxdyeah.top/epgphp/index.php"
-        },
-        {
             "name": "江西电信（电信网络专用）",
             "type": 0,
             "url": "./lives/jxdx.txt",
@@ -23,108 +17,18 @@
     ],
     "sites": [
         {
-            "key": "tenteng",
-            "name": "腾腾|官源",
+            "key": "Kan360",
+            "name": "360｜官方",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./libs/腾腾.js"
-        },
-        {
-            "key": "youyou",
-            "name": "优优|官源",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./libs/优优.js"
-        },
-        {
-            "key": "qiqi",
-            "name": "奇艺|官源",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./libs/奇奇.js"
-        },
-        {
-            "key": "mangmang",
-            "name": "茫茫|官源",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./libs/茫茫.js"
-        },
-        {
-            "key": "设置",
-            "name": "弹幕|设置",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.618
-            }
-        }
-    ],
-    "parses": [
-        {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
-        },
-        {
-            "name": "自定：请先设置",
-            "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url="
-        },
-        {
-            "name": "晴天4K Q1026038872",
-            "type": 1,
-            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
-        },
-        {
-            "name": "虎斑XM",
-            "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getXmflvjx&url=",
+            "api": "csp_Kan360",
+            "searchable": 1,
+            "filterable": 1,
             "ext": {
-                "header": {
-                    "Accept": "*/*",
-                    "Origin": "https://jx.xmflv.com"
-                }
+                "filter": "https://open.wya6.com/d/down/2026/json/360.json",
+                "fishjx": [
+                    "https://jx.xmflv.com/?url="
+                ]
             }
         },
-        {
-            "name": "虎斑szy",
-            "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getszyjx&url="
-        },
-        {
-            "name": "虎斑mt4K",
-            "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getmgtvjx&url="
-        },
-        {
-            "name": "虎斑HJ",
-            "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=gethuajx&url="
-        },
-        {
-            "name": "虎斑WS",
-            "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getWsjx&url="
-        },
-        {
-            "name": "虎斑AB",
-            "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getAbjx&url="
-        },
-        {
-            "name": "虎斑V6",
-            "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getV6jx&url="
-        }
     ]
 }

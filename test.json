@@ -1,5 +1,5 @@
 {
-    "spider": "./jars/hb.jar",
+    "spider": "./jars/my.jar",
     "lives": [
         {
             "name": "江西电信（电信网络专用）",
@@ -24,11 +24,13 @@
             "searchable": 1,
             "filterable": 1,
             "ext": {
-                "filter": "https://open.wya6.com/d/down/2026/json/360.json",
+                "filter": "./libs/360.json",
                 "fishjx": [
                     "https://jx.xmflv.com/?url="
                 ]
             }
-        },
+        }
     ]
+
+
 }

@@ -1,5 +1,5 @@
 {
-    "spider": "./jars/my.jar",
+    "spider": "",
     "lives": [
         {
             "name": "江西电信（电信网络专用）",
@@ -19,11 +19,13 @@
         {
             "key": "Kan360",
             "name": "360｜官方",
+            "jar":"./jars/my.jar",
             "type": 3,
             "api": "csp_Kan360",
             "searchable": 1,
             "filterable": 1,
             "ext": {
+                "danmu":false,
                 "filter": "./libs/360.json",
                 "fishjx": [
                     "https://jx.xmflv.com/?url=",

@@ -34,6 +34,7 @@
 		{
 			"key": "三秋影视",
 			"name": "三秋｜APP",
+            "jar":"./jars/xs.jar",
 			"type": 3,
 			"api": "csp_App3Q",
 			"danmu": false
@@ -41,6 +42,7 @@
 		{
             "key": "热播影视",
             "name": "热播｜APP",
+            "jar":"./jars/xs.jar",
             "type": 3,
             "api": "csp_AppRJ",
             "searchable": 1,
@@ -53,6 +55,7 @@
         {
             "key": "老鹰",
             "name": "老鹰｜APP",
+            "jar":"./jars/xs.jar",
             "type": 3,
             "api": "csp_AppQi",
             "searchable": 1,
@@ -67,6 +70,7 @@
         {
             "key": "金牌",
             "name": "金牌｜APP",
+            "jar":"./jars/xs.jar",
             "type": 3,
             "api": "csp_AppQi",
             "searchable": 1,
@@ -85,6 +89,7 @@
         {
             "key": "星芽短剧",
             "name": "星芽｜短剧",
+            "jar":"./jars/xs.jar",
             "type": 3,
             "api": "./py/星芽短剧.py",
             "searchable": 1,

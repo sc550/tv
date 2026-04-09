@@ -14,6 +14,22 @@
 	],
 	"sites": [
         {
+            "key": "Kan360",
+            "name": "360｜官方",
+            "jar":"./jars/my.jar",
+            "type": 3,
+            "api": "csp_Kan360",
+            "searchable": 1,
+            "filterable": 1,
+            "ext": {
+                "filter": "./libs/360.json",
+                "fishjx": [
+                    "https://jx.xmflv.com/?url=",
+                    "https://jx.hls.one/?url="
+                ]
+            }
+        }, 
+		{
             "key": "老鹰",
             "name": "老鹰｜APP",
             "type": 3,

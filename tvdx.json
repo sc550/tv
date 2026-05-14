@@ -53,52 +53,7 @@
             "ext": {
                 "url": "http://v.rbotv.cn"
             }
-        },
-        {
-            "key": "金牌",
-            "name": "金牌｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://dtqj.ggtvb.cc/dtjp.txt",
-                "dataKey": "eecbio48dsq131ee",
-                "dataIv": "eecbio48dsq131ee",
-                "search": "searchList4",
-                "version": "305",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
-        },
-        {
-            "key": "星芽短剧",
-            "name": "星芽｜短剧",
-            "type": 3,
-            "api": "./py/星芽短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "类型": "短剧"
-        },
-		{
-      "key": "糯米",
-      "name": "☀糯米🔹蓝光",
-      "type": 3,
-      "jar":"./jars/tw.jar",
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Nmys",
-        "danmu": false
-        },
-        "timeout": 10
-       },
-        
+        },    
         {
             "key": "蚂蚁影视",
             "name": "🐜蚂蚁｜影视",

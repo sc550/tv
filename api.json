@@ -4,9 +4,18 @@
 //easybox
 //OK影视：均可正常使用
 {
-  "spider": "./jars/xs.jar",
+  "spider": "./jars/yx.jar",
   "lives": [
-	   {
+        {
+            "name": "网络直播",
+            "type": 0,
+            "url": "./lives/zb.php",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php",
+            "playerType": 2,
+            "ua": "AptvPlayer-UA",
+            "timeout": 6
+        },
+	  {
             "name": "江西移动（移动网络专用）",
             "type": 0,
             "url": "./lives/jxyd.txt",
@@ -29,7 +38,7 @@
 	"sites": [
         {
             "key": "橘汁",
-            "name": "橘汁 • APP",
+            "name": "🧃┃橘汁┃APP",
             "type": 3,
             "api": "csp_AppDrama",
             "searchable": 1,
@@ -42,14 +51,14 @@
                 "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
                 "pkg": "com.lxf.snzlcgtzxyx",
                 "host": "",
-                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+                "site": "https://hub.vdatabox.com/txt/juzhi.txt",
                 "version": "3.0.2.1",
                 "decrypt": "1"
             }
         },
         {
             "key": "华谊",
-            "name": "华谊 • APP",
+            "name": "❀┃华谊┃APP",
             "type": 3,
             "api": "csp_AppDrama",
             "searchable": 1,
@@ -62,44 +71,11 @@
                 "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
                 "pkg": "com.muyue.tool",
                 "host": "",
-                "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
+                "site": "https://hub.vdatabox.com/txt/huayi.txt",
                 "version": "1.0.0.4",
                 "decrypt": "1"
             }
-        },
-        {
-            "key": "瓜子影视",
-            "name": "瓜子 • 影视",
-            "type": 3,
-            "api": "csp_Gz360"
-        },
-		{
-            "key": "热播影视",
-            "name": "热播｜APP",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://v.rbotv.cn"
-            }
-        },
-        {
-            "key": "蚂蚁影视",
-            "name": "🐜蚂蚁｜影视",
-            "type": 3,
-            "jar":"./jars/xbpq.jar",
-            "api": "csp_XBPQ",
-            "ext": "./libs/蚂蚁影视.json"
-        },
-        {
-            "key": "永乐影视",
-            "name": "😀永乐｜影视",
-            "type": 3,
-            "jar":"./jars/xbpq.jar",
-            "api": "csp_XBPQ",
-            "ext": "./libs/永乐影视.json"
         }
+
     ]
 }

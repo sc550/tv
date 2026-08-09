@@ -4,15 +4,6 @@
 {
   "spider": "./jars/yx.jar",
   "lives": [
-        {
-            "name": "网络直播",
-            "type": 0,
-            "url": "./lives/zb.m3u",
-            "epg": "https://tv.mxdyeah.top/epgphp/index.php",
-            "playerType": 2,
-            "ua": "AptvPlayer-UA",
-            "timeout": 6
-        },
 	  {
             "name": "江西移动（移动网络专用）",
             "type": 0,

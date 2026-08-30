@@ -3,6 +3,16 @@
 {
   "spider": "https://img.51shazhu.com/autoupload/g1b6f/20260830/WLJG/0X0/08300733.png;md5;afed4807ecb29146776120160cc8b873",
   "lives": [
+        {
+            "name": "优选",
+            "type": 0,
+            "url": "https://hub.vdatabox.com/live/live.php",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "logo": "https://epg.iill.top/logo/{name}.png",
+            "playerType": 2,
+            "ua": "AptvPlayer-UA",
+            "timeout": 6
+        },
 	  {
             "name": "江西电信",
             "type": 0,

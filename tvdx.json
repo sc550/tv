@@ -9,6 +9,12 @@
             "type": 0,
             "url": "./lives/jxdx.txt",
             "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+        },
+	  	  {
+            "name": "PHPTV",
+            "type": 0,
+            "url": "./lives/phptv.txt",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
         }
 	],
 	"sites": [

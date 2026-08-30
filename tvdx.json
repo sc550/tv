@@ -5,9 +5,9 @@
   "spider": "./jars/yx.jar",
   "lives": [
 	  {
-            "name": "江西移动（移动网络专用）",
+            "name": "江西电信",
             "type": 0,
-            "url": "./lives/jxyd.txt",
+            "url": "./lives/jxdx.txt",
             "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
         }
 	],

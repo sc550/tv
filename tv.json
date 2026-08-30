@@ -1,6 +1,38 @@
+	//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//本接口无公众号、无盈利、无引流、仅为自己使用，他人请直接使用大佬接口，谢谢。
 {
   "spider": "https://img.51shazhu.com/autoupload/g1b6f/20260830/WLJG/0X0/08300733.png;md5;afed4807ecb29146776120160cc8b873",
-  "sites": [
+  "lives": [
+        {
+            "name": "优选",
+            "type": 0,
+            "url": "https://hub.vdatabox.com/live/live.php",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "logo": "https://epg.iill.top/logo/{name}.png",
+            "playerType": 2,
+            "ua": "AptvPlayer-UA",
+            "timeout": 6
+        },
+	  {
+            "name": "江西电信",
+            "type": 0,
+            "url": "./lives/jxdx.txt",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+        },
+	  	  {
+            "name": "网络直播",
+            "type": 0,
+            "url": "./lives/wlzb.txt",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+        },
+	  	  {
+            "name": "PHPTV",
+            "type": 0,
+            "url": "./lives/phptv.txt",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+        }
+	],
+	"sites": [
     {
       "key": "热播影视",
       "name": "热播 • APP",
@@ -196,22 +228,6 @@
         "dataIv": "oW5UxZ5kWVr1DI69",
         "init": "initV122",
         "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "奇奇",
-      "name": "奇奇 • APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt",
-        "dataKey": "FTgP4Gq8zPiqbt7M",
-        "dataIv": "FTgP4Gq8zPiqbt7M",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0",
-        "search": "searchList8"
       }
     },
     {
@@ -651,18 +667,7 @@
         "type": "list"
       }
     },
-    {
-      "key": "球通体育",
-      "name": "球通 • 体育",
-      "type": 3,
-      "api": "csp_SportsQiutong",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
+
     {
       "key": "瓜子体育",
       "name": "瓜子 • 体育",
@@ -681,79 +686,6 @@
       "type": 3,
       "api": "csp_SportsKafei",
       "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "呦呦DJ",
-      "name": "呦呦 • DJ",
-      "type": 3,
-      "api": "csp_Djuu",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "轮回DJ",
-      "name": "轮回 • DJ",
-      "type": 3,
-      "api": "csp_Djlh",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "蜻蜓FM",
-      "name": "蜻蜓 • FM",
-      "type": 3,
-      "api": "csp_QingtingFM",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "世界听书",
-      "name": "世界 • 听书",
-      "type": 3,
-      "api": "csp_TingShijie",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "堇夏听书",
-      "name": "堇夏 • 听书",
-      "type": 3,
-      "api": "csp_TingJinxia",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://m.ting15.com",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "博看听书",
-      "name": "博看 • 听书",
-      "type": 3,
-      "api": "csp_TingBokan",
-      "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
       "style": {
@@ -786,19 +718,6 @@
       }
     },
     {
-      "key": "兔小贝",
-      "name": "兔小贝 • 儿童",
-      "type": 3,
-      "api": "csp_TuXiaoBei",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.618
-      }
-    },
-    {
       "key": "贝乐虎",
       "name": "贝乐虎 • 儿童",
       "type": 3,
@@ -819,19 +738,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "api": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/py/爱听音乐.py"
-    },
-    {
-      "key": "网络直播",
-      "name": "网络 • 直播",
-      "type": 3,
-      "api": "csp_ALLLive",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.618
-      }
     },
     {
       "key": "哔哩哔哩音乐",
@@ -1012,21 +918,9 @@
         "type": "rect",
         "ratio": 1.618
       }
-    },
-    {
-      "key": "push_agent",
-      "name": "手机 • 推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0
     }
   ],
-  "lives": [
-    {}
-  ],
-  "parses": [
+	  "parses": [
     {
       "name": "聚合",
       "type": 3,

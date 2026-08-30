@@ -7,8 +7,7 @@
             "name": "优选",
             "type": 0,
             "url": "https://hub.vdatabox.com/live/live.php",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://epg.iill.top/logo/{name}.png",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php",
             "playerType": 2,
             "ua": "AptvPlayer-UA",
             "timeout": 6

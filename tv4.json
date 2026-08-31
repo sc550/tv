@@ -3,7 +3,7 @@
 
 //     当前接口：https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json
 {
-    "spider": "./jar/spider.jar;md5;759a5870c8a6e4415023f1c3e8b2cb7c",
+    "spider": "./jars/spider.jar;md5;759a5870c8a6e4415023f1c3e8b2cb7c",
     "lives": [
         {
             "name": "migu",

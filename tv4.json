@@ -18,14 +18,14 @@
 	],
 	"sites": [
         {
-      "key": "农民影视",
+      "key": "永乐影视",
       "name": "☀农民🔹影拭",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/农民影视.json"
+      "ext": "./XBPQ/永乐影视.json"
     }		
     ]
 }

@@ -17,19 +17,19 @@
             "name": "江西电信",
             "type": 0,
             "url": "./lives/jxdx.txt",
-            "epg": "https://live.fanmingming.cn/e.xml"              
+            "epg": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml"              
         },
 	  	  {
             "name": "网络直播",
             "type": 0,
             "url": "./lives/wlzb.txt",
-            "epg": "https://live.fanmingming.cn/e.xml"              
+            "epg": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml"              
         },
 	  	  {
             "name": "PHPTV",
             "type": 0,
             "url": "./lives/phptv.txt",
-            "epg": "https://live.fanmingming.cn/e.xml"              
+            "epg": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml"              
         }
 	],
 	"sites": [

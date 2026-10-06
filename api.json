@@ -17,19 +17,19 @@
             "name": "江西电信",
             "type": 0,
             "url": "./lives/jxdx.txt",
-            "epg": "http://192.168.31.75:6010/api/diyp/"              
+            "epg": "https://live.fanmingming.cn/e.xml"              
         },
 	  	  {
             "name": "网络直播",
             "type": 0,
             "url": "./lives/wlzb.txt",
-            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+            "epg": "https://live.fanmingming.cn/e.xml"              
         },
 	  	  {
             "name": "PHPTV",
             "type": 0,
             "url": "./lives/phptv.txt",
-            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+            "epg": "https://live.fanmingming.cn/e.xml"              
         }
 	],
 	"sites": [

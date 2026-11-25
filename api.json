@@ -20,6 +20,30 @@
             "type": 0,
             "url": "./lives/wlzb.txt",
             "epg": "http://192.168.31.75:7000/index.php"              
+        },
+	  	  {
+            "name": "bili",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://github.com/mursor1985/LIVE/blob/main/bililive.m3u",
+            "epg": "http://192.168.31.75:7000/index.php"              
+        },
+	  	  {
+            "name": "斗鱼",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u",
+            "epg": "http://192.168.31.75:7000/index.php"              
+        },
+	  	  {
+            "name": "虎牙",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://github.com/mursor1985/LIVE/blob/main/huyayqk.m3u",
+            "epg": "http://192.168.31.75:7000/index.php"              
+        },
+	  	  {
+            "name": "YY轮播",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u",
+            "epg": "http://192.168.31.75:7000/index.php"              
         }
 	],
 	"sites": [
